@@ -54,11 +54,11 @@
         -1,
         1159284261
     ],
-    "wof:lastmodified":1584720809,
+    "wof:lastmodified":1601498148,
     "wof:name":"WS7687 (SFO-LAX)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

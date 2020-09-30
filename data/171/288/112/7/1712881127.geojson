@@ -88,11 +88,11 @@
         1159283715,
         1477930291
     ],
-    "wof:lastmodified":1584116095,
+    "wof:lastmodified":1601497689,
     "wof:name":"FJ871 (SFO-NAN)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

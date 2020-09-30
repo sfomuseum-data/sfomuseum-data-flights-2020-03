@@ -94,11 +94,11 @@
         1477930303,
         1159284613
     ],
-    "wof:lastmodified":1584548003,
+    "wof:lastmodified":1601498906,
     "wof:name":"VS6858 (SFO-AMS)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

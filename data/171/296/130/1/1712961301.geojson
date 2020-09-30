@@ -88,11 +88,11 @@
         1159285413,
         1477930469
     ],
-    "wof:lastmodified":1585152795,
+    "wof:lastmodified":1601498822,
     "wof:name":"UA1243 (PVR-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159285413,
         1477930477
     ],
-    "wof:lastmodified":1585066377,
+    "wof:lastmodified":1601497940,
     "wof:name":"UA2073 (SFO-MSY)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

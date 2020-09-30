@@ -94,11 +94,11 @@
         1477930325,
         1159284261
     ],
-    "wof:lastmodified":1584202407,
+    "wof:lastmodified":1601497668,
     "wof:name":"WS7682 (SEA-SFO)",
     "wof:parent_id":1477930325,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

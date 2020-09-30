@@ -88,11 +88,11 @@
         1159285591,
         1477881725
     ],
-    "wof:lastmodified":1584981523,
+    "wof:lastmodified":1601497998,
     "wof:name":"WN4425 (SFO-LAX)",
     "wof:parent_id":1477881725,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

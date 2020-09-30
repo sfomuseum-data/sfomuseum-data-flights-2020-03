@@ -88,11 +88,11 @@
         1159285413,
         1477930431
     ],
-    "wof:lastmodified":1583252230,
+    "wof:lastmodified":1601498474,
     "wof:name":"UA5832 (SFO-EUG)",
     "wof:parent_id":1477930431,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

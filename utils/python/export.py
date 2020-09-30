@@ -62,7 +62,7 @@ if __name__ == "__main__":
         else:
             feature["properties"]["edtf:cessation"] = date
             
-        feature["properties"]["wof:repo"] = "sfomuseum-data-flight-%s-%s" % (ymd[0], ymd[1])
+        feature["properties"]["wof:repo"] = "sfomuseum-data-flights-%s-%s" % (ymd[0], ymd[1])
 
         if options.debug:
             props = feature["properties"]

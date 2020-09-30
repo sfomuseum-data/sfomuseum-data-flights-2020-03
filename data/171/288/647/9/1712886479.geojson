@@ -88,11 +88,11 @@
         1159283849,
         1477930333
     ],
-    "wof:lastmodified":1584202407,
+    "wof:lastmodified":1601497667,
     "wof:name":"AA547 (SFO-PHL)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

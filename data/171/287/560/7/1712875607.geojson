@@ -94,11 +94,11 @@
         1477930469,
         1159285413
     ],
-    "wof:lastmodified":1584116080,
+    "wof:lastmodified":1601497347,
     "wof:name":"AC5941 (CDG-SFO)",
     "wof:parent_id":1477930469,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

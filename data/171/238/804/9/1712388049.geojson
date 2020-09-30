@@ -88,11 +88,11 @@
         1159285271,
         1477930477
     ],
-    "wof:lastmodified":1583511222,
+    "wof:lastmodified":1601498606,
     "wof:name":"TP236 (SFO-LIS)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159284261,
         1477930319
     ],
-    "wof:lastmodified":1585584795,
+    "wof:lastmodified":1601499420,
     "wof:name":"DL3008 (SFO-MSP)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

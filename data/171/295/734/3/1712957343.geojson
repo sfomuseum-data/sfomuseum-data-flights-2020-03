@@ -88,11 +88,11 @@
         1159283495,
         1477930475
     ],
-    "wof:lastmodified":1585066374,
+    "wof:lastmodified":1601497965,
     "wof:name":"EI146 (SFO-DUB)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

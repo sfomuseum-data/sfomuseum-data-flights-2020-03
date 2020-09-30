@@ -94,11 +94,11 @@
         1477930321,
         1159284261
     ],
-    "wof:lastmodified":1585066375,
+    "wof:lastmodified":1601497972,
     "wof:name":"KL5961 (SFO-MSP)",
     "wof:parent_id":1477930321,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

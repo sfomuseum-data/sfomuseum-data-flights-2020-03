@@ -94,11 +94,11 @@
         1477930283,
         1159285483
     ],
-    "wof:lastmodified":1584547999,
+    "wof:lastmodified":1601498926,
     "wof:name":"KL4840 (SFO-LHR)",
     "wof:parent_id":1477930283,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

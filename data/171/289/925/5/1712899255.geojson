@@ -94,11 +94,11 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1584375287,
+    "wof:lastmodified":1601497527,
     "wof:name":"SA7384 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

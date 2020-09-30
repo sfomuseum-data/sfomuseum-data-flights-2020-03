@@ -94,11 +94,11 @@
         1477930319,
         1159284261
     ],
-    "wof:lastmodified":1585498372,
+    "wof:lastmodified":1601498718,
     "wof:name":"CI9162 (SFO-LAX)",
     "wof:parent_id":1477930319,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

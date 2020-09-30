@@ -88,11 +88,11 @@
         1159284583,
         1477881719
     ],
-    "wof:lastmodified":1584634377,
+    "wof:lastmodified":1601497837,
     "wof:name":"B6633 (BOS-SFO)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -94,11 +94,11 @@
         1477930333,
         1159283849
     ],
-    "wof:lastmodified":1583338414,
+    "wof:lastmodified":1601499177,
     "wof:name":"BA5678 (SFO-PHL)",
     "wof:parent_id":1477930333,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

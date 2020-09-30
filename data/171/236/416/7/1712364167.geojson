@@ -94,11 +94,11 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1583252222,
+    "wof:lastmodified":1601498536,
     "wof:name":"AM3609 (SFO-LAX)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

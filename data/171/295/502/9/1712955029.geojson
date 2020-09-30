@@ -88,11 +88,11 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1585066368,
+    "wof:lastmodified":1601497927,
     "wof:name":"UA2201 (LAX-SFO)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

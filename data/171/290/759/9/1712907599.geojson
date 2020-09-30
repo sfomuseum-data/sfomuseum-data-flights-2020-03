@@ -94,11 +94,11 @@
         1477930301,
         1159284313
     ],
-    "wof:lastmodified":1584461572,
+    "wof:lastmodified":1601499284,
     "wof:name":"AA7396 (SFO-SYD)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

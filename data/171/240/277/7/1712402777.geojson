@@ -88,11 +88,11 @@
         1159285413,
         1477930397
     ],
-    "wof:lastmodified":1583683949,
+    "wof:lastmodified":1601498340,
     "wof:name":"UA1568 (SFO-LAS)",
     "wof:parent_id":1477930397,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

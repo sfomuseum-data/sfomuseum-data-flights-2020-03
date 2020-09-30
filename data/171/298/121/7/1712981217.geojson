@@ -94,11 +94,11 @@
         1477930433,
         1159285413
     ],
-    "wof:lastmodified":1585498363,
+    "wof:lastmodified":1601498727,
     "wof:name":"NZ9132 (EWR-SFO)",
     "wof:parent_id":1477930433,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

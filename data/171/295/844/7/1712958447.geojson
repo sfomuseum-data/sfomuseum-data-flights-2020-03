@@ -88,11 +88,11 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1585066378,
+    "wof:lastmodified":1601497943,
     "wof:name":"UA528 (SFO-PHX)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

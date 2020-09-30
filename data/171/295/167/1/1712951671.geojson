@@ -88,11 +88,11 @@
         1159285413,
         1477930463
     ],
-    "wof:lastmodified":1584981524,
+    "wof:lastmodified":1601497932,
     "wof:name":"UA1509 (SFO-HNL)",
     "wof:parent_id":1477930463,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

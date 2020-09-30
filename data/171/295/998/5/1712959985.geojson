@@ -88,11 +88,11 @@
         1159283813,
         1477930349
     ],
-    "wof:lastmodified":1585152791,
+    "wof:lastmodified":1601497926,
     "wof:name":"AS1305 (MCO-SFO)",
     "wof:parent_id":1477930349,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

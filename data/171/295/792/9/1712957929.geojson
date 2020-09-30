@@ -88,11 +88,11 @@
         1159285591,
         1477881737
     ],
-    "wof:lastmodified":1585066376,
+    "wof:lastmodified":1601497972,
     "wof:name":"WN1348 (SFO-SAN)",
     "wof:parent_id":1477881737,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

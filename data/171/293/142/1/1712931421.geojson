@@ -88,11 +88,11 @@
         1159285413,
         1477930447
     ],
-    "wof:lastmodified":1584720807,
+    "wof:lastmodified":1601498117,
     "wof:name":"UA1931 (SFO-SNA)",
     "wof:parent_id":1477930447,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

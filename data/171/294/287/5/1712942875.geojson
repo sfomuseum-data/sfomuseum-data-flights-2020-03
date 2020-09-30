@@ -88,11 +88,11 @@
         1159283597,
         1477930475
     ],
-    "wof:lastmodified":1584893660,
+    "wof:lastmodified":1601498017,
     "wof:name":"AC561 (SFO-YVR)",
     "wof:parent_id":1477930475,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1584634383,
+    "wof:lastmodified":1601497854,
     "wof:name":"AS223 (SFO-PDX)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159285413,
         1477930393
     ],
-    "wof:lastmodified":1584116088,
+    "wof:lastmodified":1601497366,
     "wof:name":"UA722 (SAN-SFO)",
     "wof:parent_id":1477930393,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159284021,
         1477930299
     ],
-    "wof:lastmodified":1585239221,
+    "wof:lastmodified":1601498823,
     "wof:name":"BA3461 (LHR-SFO)",
     "wof:parent_id":1477930299,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

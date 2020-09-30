@@ -54,11 +54,11 @@
         -1,
         1159284261
     ],
-    "wof:lastmodified":1585066373,
+    "wof:lastmodified":1601497982,
     "wof:name":"AZ3435 (SFO-JFK)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

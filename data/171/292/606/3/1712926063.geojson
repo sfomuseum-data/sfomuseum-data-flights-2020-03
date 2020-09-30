@@ -88,11 +88,11 @@
         1159283813,
         1477930301
     ],
-    "wof:lastmodified":1584720793,
+    "wof:lastmodified":1601497905,
     "wof:name":"AS1279 (SJD-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

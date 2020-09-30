@@ -94,11 +94,11 @@
         1477930479,
         1159283597
     ],
-    "wof:lastmodified":1583683950,
+    "wof:lastmodified":1601498283,
     "wof:name":"UA8338 (SFO-YUL)",
     "wof:parent_id":1477930479,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -94,11 +94,11 @@
         1477930369,
         1159283849
     ],
-    "wof:lastmodified":1584029631,
+    "wof:lastmodified":1601497433,
     "wof:name":"QF3146 (JFK-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159283813,
         1477930357
     ],
-    "wof:lastmodified":1585152800,
+    "wof:lastmodified":1601498802,
     "wof:name":"AS2829 (SFO-PAE)",
     "wof:parent_id":1477930357,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

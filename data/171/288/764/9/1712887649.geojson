@@ -94,11 +94,11 @@
         1477930303,
         1159284313
     ],
-    "wof:lastmodified":1584202410,
+    "wof:lastmodified":1601497587,
     "wof:name":"AS5008 (SFO-MEL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

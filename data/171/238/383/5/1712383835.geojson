@@ -88,11 +88,11 @@
         1159284511,
         1477930315
     ],
-    "wof:lastmodified":1583511210,
+    "wof:lastmodified":1601498620,
     "wof:name":"IB2621 (BCN-SFO)",
     "wof:parent_id":1477930315,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

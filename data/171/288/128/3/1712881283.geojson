@@ -88,11 +88,11 @@
         1159284623,
         1477930301
     ],
-    "wof:lastmodified":1584116096,
+    "wof:lastmodified":1601497645,
     "wof:name":"KE26 (SFO-ICN)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159283813,
         1477930371
     ],
-    "wof:lastmodified":1584116093,
+    "wof:lastmodified":1601497672,
     "wof:name":"AS3450 (SFO-SLC)",
     "wof:parent_id":1477930371,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

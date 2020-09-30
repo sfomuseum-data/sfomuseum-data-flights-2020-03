@@ -94,11 +94,11 @@
         1477930481,
         1159285413
     ],
-    "wof:lastmodified":1583597628,
+    "wof:lastmodified":1601499037,
     "wof:name":"NH7013 (SFO-NRT)",
     "wof:parent_id":1477930481,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

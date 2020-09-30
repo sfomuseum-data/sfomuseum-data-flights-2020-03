@@ -88,11 +88,11 @@
         1159284489,
         1477930303
     ],
-    "wof:lastmodified":1584807236,
+    "wof:lastmodified":1601498161,
     "wof:name":"HA11 (SFO-HNL)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

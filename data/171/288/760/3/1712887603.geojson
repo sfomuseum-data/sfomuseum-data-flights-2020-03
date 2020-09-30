@@ -88,11 +88,11 @@
         1159283813,
         1477930373
     ],
-    "wof:lastmodified":1584202410,
+    "wof:lastmodified":1601497651,
     "wof:name":"AS3370 (SFO-SNA)",
     "wof:parent_id":1477930373,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

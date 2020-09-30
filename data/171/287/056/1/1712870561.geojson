@@ -88,11 +88,11 @@
         1159286401,
         1477930301
     ],
-    "wof:lastmodified":1584029632,
+    "wof:lastmodified":1601497447,
     "wof:name":"DY7075 (BCN-SFO)",
     "wof:parent_id":1477930301,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

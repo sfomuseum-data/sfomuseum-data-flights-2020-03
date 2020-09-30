@@ -94,11 +94,11 @@
         1477930299,
         1159283627
     ],
-    "wof:lastmodified":1583683946,
+    "wof:lastmodified":1601498324,
     "wof:name":"DL8599 (SFO-CDG)",
     "wof:parent_id":1477930299,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

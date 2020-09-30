@@ -48,11 +48,11 @@
         1159283627,
         -1
     ],
-    "wof:lastmodified":1585584792,
+    "wof:lastmodified":1601498722,
     "wof:name":"AF83 (SFO-CDG)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

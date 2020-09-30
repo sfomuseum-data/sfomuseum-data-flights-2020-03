@@ -94,11 +94,11 @@
         1477930341,
         1159283813
     ],
-    "wof:lastmodified":1584807236,
+    "wof:lastmodified":1601498162,
     "wof:name":"AY2515 (SFO-SAN)",
     "wof:parent_id":1477930341,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

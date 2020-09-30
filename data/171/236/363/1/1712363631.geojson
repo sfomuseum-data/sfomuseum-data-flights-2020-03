@@ -94,11 +94,11 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1583252221,
+    "wof:lastmodified":1601498462,
     "wof:name":"WS6672 (LAX-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

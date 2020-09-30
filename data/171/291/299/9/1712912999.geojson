@@ -94,11 +94,11 @@
         1477930355,
         1159283813
     ],
-    "wof:lastmodified":1584547988,
+    "wof:lastmodified":1601498950,
     "wof:name":"QF3657 (JFK-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

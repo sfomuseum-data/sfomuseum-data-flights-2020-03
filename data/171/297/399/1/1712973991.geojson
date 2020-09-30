@@ -88,11 +88,11 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1585325488,
+    "wof:lastmodified":1601499335,
     "wof:name":"UA5446 (SBA-SFO)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1583856850,
+    "wof:lastmodified":1601498426,
     "wof:name":"AS3384 (SFO-PSP)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

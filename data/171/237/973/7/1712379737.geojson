@@ -94,11 +94,11 @@
         1477930345,
         1159283813
     ],
-    "wof:lastmodified":1583424734,
+    "wof:lastmodified":1601499192,
     "wof:name":"QF3796 (SFO-MCO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

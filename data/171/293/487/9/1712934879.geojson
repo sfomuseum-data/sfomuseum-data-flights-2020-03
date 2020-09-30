@@ -94,11 +94,11 @@
         1477930369,
         1159283813
     ],
-    "wof:lastmodified":1584807229,
+    "wof:lastmodified":1601498143,
     "wof:name":"EK3146 (SEA-SFO)",
     "wof:parent_id":1477930369,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

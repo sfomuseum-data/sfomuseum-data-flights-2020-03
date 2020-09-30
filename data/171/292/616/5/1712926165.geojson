@@ -88,11 +88,11 @@
         1159283813,
         1477930345
     ],
-    "wof:lastmodified":1584720794,
+    "wof:lastmodified":1601497850,
     "wof:name":"AS3329 (DAL-SFO)",
     "wof:parent_id":1477930345,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

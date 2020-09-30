@@ -88,11 +88,11 @@
         1159285413,
         1477930485
     ],
-    "wof:lastmodified":1584981518,
+    "wof:lastmodified":1601498024,
     "wof:name":"UA838 (NRT-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -94,11 +94,11 @@
         1477930307,
         1159284165
     ],
-    "wof:lastmodified":1585239222,
+    "wof:lastmodified":1601498830,
     "wof:name":"DL6339 (CAN-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

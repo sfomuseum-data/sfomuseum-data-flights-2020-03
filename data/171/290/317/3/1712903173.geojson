@@ -88,11 +88,11 @@
         1159285413,
         1477930407
     ],
-    "wof:lastmodified":1584375298,
+    "wof:lastmodified":1601499322,
     "wof:name":"UA1464 (SFO-RDU)",
     "wof:parent_id":1477930407,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

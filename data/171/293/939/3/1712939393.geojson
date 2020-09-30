@@ -94,11 +94,11 @@
         1477930303,
         1159284313
     ],
-    "wof:lastmodified":1584893649,
+    "wof:lastmodified":1601498090,
     "wof:name":"AA7397 (SYD-SFO)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

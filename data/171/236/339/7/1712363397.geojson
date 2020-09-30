@@ -88,11 +88,11 @@
         1159285413,
         1477930425
     ],
-    "wof:lastmodified":1583252220,
+    "wof:lastmodified":1601498460,
     "wof:name":"UA5874 (MMH-SFO)",
     "wof:parent_id":1477930425,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

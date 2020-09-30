@@ -88,11 +88,11 @@
         1159283539,
         1477930291
     ],
-    "wof:lastmodified":1583683944,
+    "wof:lastmodified":1601498362,
     "wof:name":"AM609 (SFO-GDL)",
     "wof:parent_id":1477930291,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

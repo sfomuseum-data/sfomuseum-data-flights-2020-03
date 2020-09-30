@@ -94,11 +94,11 @@
         1477881719,
         1159284583
     ],
-    "wof:lastmodified":1584634385,
+    "wof:lastmodified":1601497864,
     "wof:name":"QR3884 (SFO-JFK)",
     "wof:parent_id":1477881719,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

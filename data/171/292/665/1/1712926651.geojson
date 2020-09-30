@@ -88,11 +88,11 @@
         1159284261,
         1477930323
     ],
-    "wof:lastmodified":1584720795,
+    "wof:lastmodified":1601497907,
     "wof:name":"DL1357 (DTW-SFO)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

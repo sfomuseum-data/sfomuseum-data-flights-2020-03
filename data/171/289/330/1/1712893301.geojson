@@ -88,11 +88,11 @@
         1159285413,
         1477930485
     ],
-    "wof:lastmodified":1584288763,
+    "wof:lastmodified":1601497479,
     "wof:name":"UA718 (MEX-SFO)",
     "wof:parent_id":1477930485,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -94,11 +94,11 @@
         1477881723,
         1159284583
     ],
-    "wof:lastmodified":1585152794,
+    "wof:lastmodified":1601498794,
     "wof:name":"QR3915 (JFK-SFO)",
     "wof:parent_id":1477881723,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1377649073,
         1477930467
     ],
-    "wof:lastmodified":1583856853,
+    "wof:lastmodified":1601498383,
     "wof:name":"BF711 (SFO-ORY)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -88,11 +88,11 @@
         1159284349,
         1477930477
     ],
-    "wof:lastmodified":1584893664,
+    "wof:lastmodified":1601498061,
     "wof:name":"BR17 (SFO-TPE)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

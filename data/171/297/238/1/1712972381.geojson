@@ -48,11 +48,11 @@
         1159283823,
         -1
     ],
-    "wof:lastmodified":1585325484,
+    "wof:lastmodified":1601499390,
     "wof:name":"AZ3548 (CDG-SFO)",
     "wof:parent_id":-1,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

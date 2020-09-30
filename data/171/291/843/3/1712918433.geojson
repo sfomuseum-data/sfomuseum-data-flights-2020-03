@@ -88,11 +88,11 @@
         1159283649,
         1477930467
     ],
-    "wof:lastmodified":1584634373,
+    "wof:lastmodified":1601498879,
     "wof:name":"AI173 (DEL-SFO)",
     "wof:parent_id":1477930467,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

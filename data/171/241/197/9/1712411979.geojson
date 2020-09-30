@@ -88,11 +88,11 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1583770436,
+    "wof:lastmodified":1601498267,
     "wof:name":"UA5373 (SFO-FAT)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

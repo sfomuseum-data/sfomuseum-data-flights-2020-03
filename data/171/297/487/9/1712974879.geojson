@@ -94,11 +94,11 @@
         1477930411,
         1159285413
     ],
-    "wof:lastmodified":1585325490,
+    "wof:lastmodified":1601499385,
     "wof:name":"NH7308 (SFO-LAS)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

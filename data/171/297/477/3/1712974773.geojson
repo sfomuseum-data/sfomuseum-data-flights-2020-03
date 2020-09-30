@@ -94,11 +94,11 @@
         1477930323,
         1159284261
     ],
-    "wof:lastmodified":1585325490,
+    "wof:lastmodified":1601499343,
     "wof:name":"AF2284 (SFO-MSP)",
     "wof:parent_id":1477930323,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

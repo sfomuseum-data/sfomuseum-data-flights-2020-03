@@ -88,11 +88,11 @@
         1159283597,
         1477930477
     ],
-    "wof:lastmodified":1584893650,
+    "wof:lastmodified":1601498130,
     "wof:name":"AC574 (YVR-SFO)",
     "wof:parent_id":1477930477,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

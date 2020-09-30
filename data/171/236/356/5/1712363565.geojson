@@ -88,11 +88,11 @@
         1159285483,
         1477930307
     ],
-    "wof:lastmodified":1583252221,
+    "wof:lastmodified":1601498522,
     "wof:name":"VS19 (LHR-SFO)",
     "wof:parent_id":1477930307,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

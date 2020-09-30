@@ -88,11 +88,11 @@
         1159283813,
         1477930355
     ],
-    "wof:lastmodified":1585757575,
+    "wof:lastmodified":1601499416,
     "wof:name":"AS454 (PDX-SFO)",
     "wof:parent_id":1477930355,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

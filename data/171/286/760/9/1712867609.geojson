@@ -88,11 +88,11 @@
         1159285413,
         1477930443
     ],
-    "wof:lastmodified":1583943222,
+    "wof:lastmodified":1601497770,
     "wof:name":"UA5243 (SFO-GEG)",
     "wof:parent_id":1477930443,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

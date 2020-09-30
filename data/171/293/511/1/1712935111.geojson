@@ -88,11 +88,11 @@
         1159285413,
         1477930411
     ],
-    "wof:lastmodified":1584807230,
+    "wof:lastmodified":1601498122,
     "wof:name":"UA2419 (PSP-SFO)",
     "wof:parent_id":1477930411,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

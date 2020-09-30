@@ -94,11 +94,11 @@
         1477930303,
         1159285483
     ],
-    "wof:lastmodified":1583597628,
+    "wof:lastmodified":1601499038,
     "wof:name":"AM7673 (SFO-LHR)",
     "wof:parent_id":1477930303,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2020-03",
+    "wof:repo":"sfomuseum-data-flights-2020-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
