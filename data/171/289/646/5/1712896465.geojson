@@ -17,9 +17,9 @@
     "flysfo:scheduled_timestamp": 1584200520,
     "flysfo:timestamp": 1584200520,
     "geom:area": 0,
-    "geom:bbox": "-122.370943,0.000000,0.000000,37.617990",
-    "geom:latitude": 18.808995,
-    "geom:longitude": -61.1854715,
+    "geom:bbox": "-122.370943,37.617990,-112.068925,43.514607",
+    "geom:latitude": 40.5662985,
+    "geom:longitude": -117.219934,
     "iata:airline": "UA",
     "icao:airline": "UAL",
     "iso:country": "US",
@@ -28,7 +28,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": -1,
     "sfomuseum:airline_id": 1159285413,
-    "sfomuseum:arrival_id": -1,
+    "sfomuseum:arrival_id": 102528385,
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20200314-D-UAL-5826",
     "sfomuseum:flight_number": [
@@ -54,7 +54,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1584288734,
-    "wof:geomhash": "f7b726ae54aa9222cfb9d243d2e793d0",
+    "wof:geomhash": "5e068f6231298c67e81be9779915bef5",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -90,7 +90,7 @@
       1159285413,
       1477930379
     ],
-    "wof:lastmodified": 1651270342,
+    "wof:lastmodified": 1652124570,
     "wof:name": "UA5826 (SFO-IDA)",
     "wof:parent_id": 1477930379,
     "wof:placetype": "event",
@@ -101,9 +101,9 @@
   },
   "bbox": [
     -122.370943,
-    0,
-    0,
-    37.61799
+    37.61799,
+    -112.068925,
+    43.514607
   ],
-  "geometry": {"coordinates":[[-122.370943,37.61799],[0,0]],"type":"MultiPoint"}
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-112.068925,43.514607]],"type":"MultiPoint"}
 }
