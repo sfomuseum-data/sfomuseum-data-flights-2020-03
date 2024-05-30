@@ -2,82 +2,89 @@
   "id": 1712890095,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-15",
-    "date:cessation_upper":"2020-03-15",
-    "date:inception_lower":"2020-03-14",
-    "date:inception_upper":"2020-03-14",
-    "edtf:cessation":"2020-03-15T03:44:38Z",
-    "edtf:inception":"2020-03-14T22:31:00Z",
-    "flysfo:actual_timestamp":1584244560,
-    "flysfo:airline":"AA",
-    "flysfo:date":"2020-03-14",
-    "flysfo:estimated_timestamp":1584244500,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"AA1783",
-    "flysfo:gate":"",
-    "flysfo:journey":"CLT-SFO",
-    "flysfo:scheduled_timestamp":1584245460,
-    "flysfo:timestamp":1584245460,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,35.220744,-80.942777,37.61799",
-    "geom:latitude":36.419367,
-    "geom:longitude":-101.65686,
-    "iata:airline":"AA",
-    "icao:aircraft":"A321",
-    "icao:airline":"AAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289411,
-    "sfomuseum:airline_id":1159283849,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102528659,
-    "sfomuseum:flight_id":"20200314-A-AAL-1783",
-    "sfomuseum:flight_number":[
-        "AAL1783",
-        "AA1783"
+    "date:cessation_lower": "2020-03-15",
+    "date:cessation_upper": "2020-03-15",
+    "date:inception_lower": "2020-03-14",
+    "date:inception_upper": "2020-03-14",
+    "edtf:cessation": "2020-03-15T03:44:38Z",
+    "edtf:inception": "2020-03-14T22:31:00Z",
+    "flysfo:actual_timestamp": 1584244560,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2020-03-14",
+    "flysfo:estimated_timestamp": 1584244500,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA1783",
+    "flysfo:gate": "",
+    "flysfo:journey": "CLT-SFO",
+    "flysfo:scheduled_timestamp": 1584245460,
+    "flysfo:timestamp": 1584245460,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.220744,-80.942777,37.617990",
+    "geom:latitude": 36.419367,
+    "geom:longitude": -101.65686,
+    "iata:airline": "AA",
+    "icao:aircraft": "A321",
+    "icao:airline": "AAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289411,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102528659,
+    "sfomuseum:flight_id": "20200314-A-AAL-1783",
+    "sfomuseum:flight_number": [
+      "AAL1783",
+      "AA1783"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route",
-        "swim-path"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
     ],
-    "swim:tail_number":"N924US",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"129640517",
-        "swim:gufi":"KT76039700"
+    "swim:tail_number": "N924US",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "129640517",
+      "swim:gufi": "KT76039700"
     },
-    "wof:country":"US",
-    "wof:created":1584288115,
-    "wof:geomhash":"b96563c9986e04a3607ac552f48e111b",
-    "wof:hierarchy":[],
-    "wof:id":1712890095,
-    "wof:involves":[
-        102527513,
-        102528659,
-        1159283849,
-        -1,
-        1159289411
+    "wof:country": "US",
+    "wof:created": 1584288115,
+    "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
+    "wof:hierarchy": [
+      {
+        "event_id": 1712890095
+      }
     ],
-    "wof:lastmodified":1601497507,
-    "wof:name":"AA1783 (CLT-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1712890095,
+    "wof:involves": [
+      102527513,
+      102528659,
+      1159283849,
+      -1,
+      1159289411
+    ],
+    "wof:lastmodified": 1717030095,
+    "wof:name": "AA1783 (CLT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     35.220744,
     -80.942777,
     37.61799
-],
-  "geometry": {"coordinates":[[-80.94277700000001,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}
+  ],
+  "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

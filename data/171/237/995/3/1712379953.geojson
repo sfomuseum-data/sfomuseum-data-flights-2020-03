@@ -96,10 +96,13 @@
       1477930345,
       1159283813
     ],
-    "wof:lastmodified": 1651270296,
+    "wof:lastmodified": 1717030101,
     "wof:name": "JL5456 (SFO-EWR)",
     "wof:parent_id": 1477930345,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

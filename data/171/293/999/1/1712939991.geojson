@@ -60,10 +60,13 @@
       -1,
       1159285413
     ],
-    "wof:lastmodified": 1651270412,
+    "wof:lastmodified": 1717030110,
     "wof:name": "NZ9133 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

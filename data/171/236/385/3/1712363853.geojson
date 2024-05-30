@@ -96,10 +96,13 @@
       1477930381,
       1159285413
     ],
-    "wof:lastmodified": 1651270272,
+    "wof:lastmodified": 1717030095,
     "wof:name": "AC4196 (SFO-TUS)",
     "wof:parent_id": 1477930381,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

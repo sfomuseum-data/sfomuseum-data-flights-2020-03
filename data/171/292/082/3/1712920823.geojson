@@ -2,80 +2,87 @@
   "id": 1712920823,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-19",
-    "date:cessation_upper":"2020-03-19",
-    "date:inception_lower":"2020-03-19",
-    "date:inception_upper":"2020-03-19",
-    "edtf:cessation":"2020-03-19T16:26:00Z",
-    "edtf:inception":"2020-03-19T02:23:00Z",
-    "flysfo:actual_timestamp":1584572400,
-    "flysfo:airline":"UA",
-    "flysfo:date":"2020-03-18",
-    "flysfo:estimated_timestamp":1584549300,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"UA2",
-    "flysfo:gate":"",
-    "flysfo:journey":"SIN-SFO",
-    "flysfo:scheduled_timestamp":1584549300,
-    "flysfo:timestamp":1584572400,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,1.3474,103.976839,37.61799",
-    "geom:latitude":19.482695,
-    "geom:longitude":-9.197052,
-    "iata:airline":"UA",
-    "icao:aircraft":"B789",
-    "icao:airline":"UAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159293215,
-    "sfomuseum:airline_id":1159285413,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102551593,
-    "sfomuseum:flight_id":"20200318-A-UAL-2",
-    "sfomuseum:flight_number":[
-        "UAL2",
-        "UA2"
+    "date:cessation_lower": "2020-03-19",
+    "date:cessation_upper": "2020-03-19",
+    "date:inception_lower": "2020-03-19",
+    "date:inception_upper": "2020-03-19",
+    "edtf:cessation": "2020-03-19T16:26:00Z",
+    "edtf:inception": "2020-03-19T02:23:00Z",
+    "flysfo:actual_timestamp": 1584572400,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2020-03-18",
+    "flysfo:estimated_timestamp": 1584549300,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2",
+    "flysfo:gate": "",
+    "flysfo:journey": "SIN-SFO",
+    "flysfo:scheduled_timestamp": 1584549300,
+    "flysfo:timestamp": 1584572400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,1.347400,103.976839,37.617990",
+    "geom:latitude": 19.482695,
+    "geom:longitude": -9.197052,
+    "iata:airline": "UA",
+    "icao:aircraft": "B789",
+    "icao:airline": "UAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159293215,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102551593,
+    "sfomuseum:flight_id": "20200318-A-UAL-2",
+    "sfomuseum:flight_number": [
+      "UAL2",
+      "UA2"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
     ],
-    "swim:tail_number":"N35953",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"129899198"
+    "swim:tail_number": "N35953",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "129899198"
     },
-    "wof:country":"US",
-    "wof:created":1584634006,
-    "wof:geomhash":"b883d8e3c3c604f714c4dc756f6c1133",
-    "wof:hierarchy":[],
-    "wof:id":1712920823,
-    "wof:involves":[
-        102527513,
-        102551593,
-        1159285413,
-        -1,
-        1159293215
+    "wof:country": "US",
+    "wof:created": 1584634006,
+    "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
+    "wof:hierarchy": [
+      {
+        "event_id": 1712920823
+      }
     ],
-    "wof:lastmodified":1601497849,
-    "wof:name":"UA2 (SIN-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1712920823,
+    "wof:involves": [
+      102527513,
+      102551593,
+      1159285413,
+      -1,
+      1159293215
+    ],
+    "wof:lastmodified": 1717030100,
+    "wof:name": "UA2 (SIN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     1.3474,
     103.976839,
     37.61799
-],
+  ],
   "geometry": {"coordinates":[[103.976839,1.3474],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

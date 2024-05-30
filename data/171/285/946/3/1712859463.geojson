@@ -90,10 +90,13 @@
       1159284313,
       1477930307
     ],
-    "wof:lastmodified": 1651270313,
+    "wof:lastmodified": 1717030096,
     "wof:name": "QF50 (SFO-MEL)",
     "wof:parent_id": 1477930307,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

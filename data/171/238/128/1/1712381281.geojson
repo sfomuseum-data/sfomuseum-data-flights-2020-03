@@ -96,10 +96,13 @@
       1477930337,
       1159284261
     ],
-    "wof:lastmodified": 1651270514,
+    "wof:lastmodified": 1717030110,
     "wof:name": "WS7686 (SFO-LAX)",
     "wof:parent_id": 1477930337,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

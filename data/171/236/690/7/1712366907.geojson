@@ -90,10 +90,13 @@
       1159285413,
       1477930377
     ],
-    "wof:lastmodified": 1651270279,
+    "wof:lastmodified": 1717030098,
     "wof:name": "UA5880 (SFO-PAE)",
     "wof:parent_id": 1477930377,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

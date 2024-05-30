@@ -96,10 +96,13 @@
       1477930411,
       1159285413
     ],
-    "wof:lastmodified": 1651270277,
+    "wof:lastmodified": 1717030096,
     "wof:name": "NZ9409 (SFO-SEA)",
     "wof:parent_id": 1477930411,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

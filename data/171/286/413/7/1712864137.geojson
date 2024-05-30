@@ -2,80 +2,87 @@
   "id": 1712864137,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-10",
-    "date:cessation_upper":"2020-03-10",
-    "date:inception_lower":"2020-03-10",
-    "date:inception_upper":"2020-03-10",
-    "edtf:cessation":"2020-03-10T18:53:00Z",
-    "edtf:inception":"2020-03-10T16:29:00Z",
-    "flysfo:actual_timestamp":1583881200,
-    "flysfo:airline":"UA",
-    "flysfo:date":"2020-03-10",
-    "flysfo:estimated_timestamp":1583866680,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"UA2738",
-    "flysfo:gate":"",
-    "flysfo:journey":"DEN-SFO",
-    "flysfo:scheduled_timestamp":1583850720,
-    "flysfo:timestamp":1583881200,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,37.61799,-104.672219,39.864939",
-    "geom:latitude":38.741464,
-    "geom:longitude":-113.521581,
-    "iata:airline":"UA",
-    "icao:aircraft":"B738",
-    "icao:airline":"UAL",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289871,
-    "sfomuseum:airline_id":1159285413,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102531189,
-    "sfomuseum:flight_id":"20200310-A-UAL-2738",
-    "sfomuseum:flight_number":[
-        "UAL2738",
-        "UA2738"
+    "date:cessation_lower": "2020-03-10",
+    "date:cessation_upper": "2020-03-10",
+    "date:inception_lower": "2020-03-10",
+    "date:inception_upper": "2020-03-10",
+    "edtf:cessation": "2020-03-10T18:53:00Z",
+    "edtf:inception": "2020-03-10T16:29:00Z",
+    "flysfo:actual_timestamp": 1583881200,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2020-03-10",
+    "flysfo:estimated_timestamp": 1583866680,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2738",
+    "flysfo:gate": "",
+    "flysfo:journey": "DEN-SFO",
+    "flysfo:scheduled_timestamp": 1583850720,
+    "flysfo:timestamp": 1583881200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-104.672219,39.864939",
+    "geom:latitude": 38.7414645,
+    "geom:longitude": -113.521581,
+    "iata:airline": "UA",
+    "icao:aircraft": "B738",
+    "icao:airline": "UAL",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531189,
+    "sfomuseum:flight_id": "20200310-A-UAL-2738",
+    "sfomuseum:flight_number": [
+      "UAL2738",
+      "UA2738"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"129245704",
-        "swim:gufi":"KD26070300"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "129245704",
+      "swim:gufi": "KD26070300"
     },
-    "wof:country":"US",
-    "wof:created":1583942836,
-    "wof:geomhash":"736fe0d2ebd38878be6950e82908a686",
-    "wof:hierarchy":[],
-    "wof:id":1712864137,
-    "wof:involves":[
-        102527513,
-        102531189,
-        1159285413,
-        -1,
-        1159289871
+    "wof:country": "US",
+    "wof:created": 1583942836,
+    "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
+    "wof:hierarchy": [
+      {
+        "event_id": 1712864137
+      }
     ],
-    "wof:lastmodified":1601497726,
-    "wof:name":"UA2738 (DEN-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1712864137,
+    "wof:involves": [
+      102527513,
+      102531189,
+      1159285413,
+      -1,
+      1159289871
+    ],
+    "wof:lastmodified": 1717030096,
+    "wof:name": "UA2738 (DEN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     37.61799,
     -104.672219,
     39.864939
-],
+  ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

@@ -96,10 +96,13 @@
       1477930469,
       1159284349
     ],
-    "wof:lastmodified": 1651270323,
+    "wof:lastmodified": 1717030098,
     "wof:name": "SQ5827 (SFO-TPE)",
     "wof:parent_id": 1477930469,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

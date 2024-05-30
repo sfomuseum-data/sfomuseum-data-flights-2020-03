@@ -90,10 +90,13 @@
       1159283813,
       1477930341
     ],
-    "wof:lastmodified": 1651270299,
+    "wof:lastmodified": 1717030096,
     "wof:name": "AS2792 (SNA-SFO)",
     "wof:parent_id": 1477930341,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

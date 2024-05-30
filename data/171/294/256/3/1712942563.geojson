@@ -90,10 +90,13 @@
       1159283849,
       1477930327
     ],
-    "wof:lastmodified": 1651270404,
+    "wof:lastmodified": 1717030103,
     "wof:name": "AA233 (SFO-PHL)",
     "wof:parent_id": 1477930327,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

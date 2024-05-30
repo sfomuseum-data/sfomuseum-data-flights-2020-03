@@ -96,10 +96,13 @@
       1477930389,
       1159285413
     ],
-    "wof:lastmodified": 1651270344,
+    "wof:lastmodified": 1717030098,
     "wof:name": "CA7328 (SFO-PDX)",
     "wof:parent_id": 1477930389,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

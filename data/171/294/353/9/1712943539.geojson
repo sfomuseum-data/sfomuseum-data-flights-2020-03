@@ -90,10 +90,13 @@
       1159283813,
       1477930353
     ],
-    "wof:lastmodified": 1651270409,
+    "wof:lastmodified": 1717030104,
     "wof:name": "AS1673 (SFO-SEA)",
     "wof:parent_id": 1477930353,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

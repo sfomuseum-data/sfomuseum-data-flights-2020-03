@@ -96,10 +96,13 @@
       1477930341,
       1159283813
     ],
-    "wof:lastmodified": 1651270388,
+    "wof:lastmodified": 1717030105,
     "wof:name": "LY9458 (SFO-EWR)",
     "wof:parent_id": 1477930341,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

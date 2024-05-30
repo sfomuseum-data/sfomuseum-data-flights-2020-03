@@ -54,10 +54,13 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1651270471,
+    "wof:lastmodified": 1717030105,
     "wof:name": "AC754 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

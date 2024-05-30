@@ -90,10 +90,13 @@
       1159285591,
       1477881735
     ],
-    "wof:lastmodified": 1651270325,
+    "wof:lastmodified": 1717030097,
     "wof:name": "WN5189 (ONT-SFO)",
     "wof:parent_id": 1477881735,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

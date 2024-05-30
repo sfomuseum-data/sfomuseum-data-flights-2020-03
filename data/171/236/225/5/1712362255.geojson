@@ -96,10 +96,13 @@
       1477881723,
       1159284583
     ],
-    "wof:lastmodified": 1651270502,
+    "wof:lastmodified": 1717030094,
     "wof:name": "HA2353 (JFK-SFO)",
     "wof:parent_id": 1477881723,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

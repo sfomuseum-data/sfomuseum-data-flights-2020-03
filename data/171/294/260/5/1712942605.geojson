@@ -96,10 +96,13 @@
       1477930295,
       1159284021
     ],
-    "wof:lastmodified": 1651270404,
+    "wof:lastmodified": 1717030103,
     "wof:name": "AA6189 (SFO-LHR)",
     "wof:parent_id": 1477930295,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

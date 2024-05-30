@@ -96,10 +96,13 @@
       1477930333,
       1159283849
     ],
-    "wof:lastmodified": 1651270283,
+    "wof:lastmodified": 1717030099,
     "wof:name": "BA5322 (PHL-SFO)",
     "wof:parent_id": 1477930333,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

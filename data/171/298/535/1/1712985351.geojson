@@ -60,10 +60,13 @@
       -1,
       1159285483
     ],
-    "wof:lastmodified": 1651270481,
+    "wof:lastmodified": 1717030106,
     "wof:name": "SQ2520 (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

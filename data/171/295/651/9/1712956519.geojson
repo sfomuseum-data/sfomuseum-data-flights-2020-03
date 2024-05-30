@@ -60,10 +60,13 @@
       -1,
       1159285413
     ],
-    "wof:lastmodified": 1651270445,
+    "wof:lastmodified": 1717030107,
     "wof:name": "NZ9391 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

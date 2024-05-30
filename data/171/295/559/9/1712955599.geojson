@@ -54,10 +54,13 @@
       1159285483,
       -1
     ],
-    "wof:lastmodified": 1651270439,
+    "wof:lastmodified": 1717030106,
     "wof:name": "VS6851 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

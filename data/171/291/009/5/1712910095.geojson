@@ -96,10 +96,13 @@
       1477930481,
       1159283875
     ],
-    "wof:lastmodified": 1651270349,
+    "wof:lastmodified": 1717030099,
     "wof:name": "TG6095 (SFO-NRT)",
     "wof:parent_id": 1477930481,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

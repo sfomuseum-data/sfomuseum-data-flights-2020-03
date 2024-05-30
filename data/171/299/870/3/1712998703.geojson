@@ -54,10 +54,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1651270512,
+    "wof:lastmodified": 1717030111,
     "wof:name": "UA217 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

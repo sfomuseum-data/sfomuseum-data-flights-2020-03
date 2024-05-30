@@ -96,10 +96,13 @@
       1477930343,
       1159283813
     ],
-    "wof:lastmodified": 1651270305,
+    "wof:lastmodified": 1717030097,
     "wof:name": "EK3067 (SEA-SFO)",
     "wof:parent_id": 1477930343,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

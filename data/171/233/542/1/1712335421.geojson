@@ -96,10 +96,13 @@
       1477930319,
       1159284261
     ],
-    "wof:lastmodified": 1651270517,
+    "wof:lastmodified": 1717030110,
     "wof:name": "AF5983 (SFO-ATL)",
     "wof:parent_id": 1477930319,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

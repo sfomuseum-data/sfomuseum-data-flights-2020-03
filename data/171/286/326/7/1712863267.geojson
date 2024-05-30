@@ -96,10 +96,13 @@
       1477930349,
       1159283813
     ],
-    "wof:lastmodified": 1651270308,
+    "wof:lastmodified": 1717030095,
     "wof:name": "FJ5825 (MCO-SFO)",
     "wof:parent_id": 1477930349,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

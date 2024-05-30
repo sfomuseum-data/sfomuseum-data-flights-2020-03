@@ -2,79 +2,86 @@
   "id": 1712916669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-18",
-    "date:cessation_upper":"2020-03-18",
-    "date:inception_lower":"2020-03-18",
-    "date:inception_upper":"2020-03-18",
-    "edtf:cessation":"2020-03-18T08:35:23Z",
-    "edtf:inception":"2020-03-18T03:52:00Z",
-    "flysfo:actual_timestamp":1584486000,
-    "flysfo:airline":"B6",
-    "flysfo:date":"2020-03-17",
-    "flysfo:estimated_timestamp":1584502680,
-    "flysfo:event":"D",
-    "flysfo:flight_number":"B6916",
-    "flysfo:gate":"",
-    "flysfo:journey":"SFO-JFK",
-    "flysfo:scheduled_timestamp":1584502680,
-    "flysfo:timestamp":1584502680,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,37.61799,-73.787845,40.643286",
-    "geom:latitude":39.130638,
-    "geom:longitude":-98.079394,
-    "iata:airline":"B6",
-    "icao:aircraft":"A321",
-    "icao:airline":"JBU",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159289411,
-    "sfomuseum:airline_id":1159284583,
-    "sfomuseum:arrival_id":102534365,
-    "sfomuseum:departure_id":102527513,
-    "sfomuseum:flight_id":"20200317-D-JBU-916",
-    "sfomuseum:flight_number":[
-        "JBU916",
-        "B6916"
+    "date:cessation_lower": "2020-03-18",
+    "date:cessation_upper": "2020-03-18",
+    "date:inception_lower": "2020-03-18",
+    "date:inception_upper": "2020-03-18",
+    "edtf:cessation": "2020-03-18T08:35:23Z",
+    "edtf:inception": "2020-03-18T03:52:00Z",
+    "flysfo:actual_timestamp": 1584486000,
+    "flysfo:airline": "B6",
+    "flysfo:date": "2020-03-17",
+    "flysfo:estimated_timestamp": 1584502680,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "B6916",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-JFK",
+    "flysfo:scheduled_timestamp": 1584502680,
+    "flysfo:timestamp": 1584502680,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-73.787845,40.643286",
+    "geom:latitude": 39.130638000000005,
+    "geom:longitude": -98.07939400000001,
+    "iata:airline": "B6",
+    "icao:aircraft": "A321",
+    "icao:airline": "JBU",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289411,
+    "sfomuseum:airline_id": 1159284583,
+    "sfomuseum:arrival_id": 102534365,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20200317-D-JBU-916",
+    "sfomuseum:flight_number": [
+      "JBU916",
+      "B6916"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"129816640"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "129816640"
     },
-    "wof:country":"US",
-    "wof:created":1584547873,
-    "wof:geomhash":"1348792a172720778d3219cc18ccd8ee",
-    "wof:hierarchy":[],
-    "wof:id":1712916669,
-    "wof:involves":[
-        102534365,
-        102527513,
-        1159284583,
-        -1,
-        1159289411
+    "wof:country": "US",
+    "wof:created": 1584547873,
+    "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
+    "wof:hierarchy": [
+      {
+        "event_id": 1712916669
+      }
     ],
-    "wof:lastmodified":1601498892,
-    "wof:name":"B6916 (SFO-JFK)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1712916669,
+    "wof:involves": [
+      102534365,
+      102527513,
+      1159284583,
+      -1,
+      1159289411
+    ],
+    "wof:lastmodified": 1717030105,
+    "wof:name": "B6916 (SFO-JFK)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     37.61799,
     -73.787845,
     40.643286
-],
+  ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}
 }

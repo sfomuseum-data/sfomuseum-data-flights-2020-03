@@ -96,10 +96,13 @@
       1477930353,
       1159283813
     ],
-    "wof:lastmodified": 1651270431,
+    "wof:lastmodified": 1717030104,
     "wof:name": "AY2502 (SEA-SFO)",
     "wof:parent_id": 1477930353,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

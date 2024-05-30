@@ -2,79 +2,86 @@
   "id": 1712855237,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2020-03-10",
-    "date:cessation_upper":"2020-03-10",
-    "date:inception_lower":"2020-03-09",
-    "date:inception_upper":"2020-03-09",
-    "edtf:cessation":"2020-03-10T01:09:07Z",
-    "edtf:inception":"2020-03-09T21:40:00Z",
-    "flysfo:actual_timestamp":1583794800,
-    "flysfo:airline":"AS",
-    "flysfo:date":"2020-03-09",
-    "flysfo:estimated_timestamp":1583801940,
-    "flysfo:event":"A",
-    "flysfo:flight_number":"AS9529",
-    "flysfo:gate":"",
-    "flysfo:journey":"SAT-SFO",
-    "flysfo:scheduled_timestamp":1583802420,
-    "flysfo:timestamp":1583802420,
-    "geom:area":0.0,
-    "geom:bbox":"-122.370943,29.534838,-98.472784,37.61799",
-    "geom:latitude":33.576414,
-    "geom:longitude":-110.421864,
-    "iata:airline":"AS",
-    "icao:aircraft":"A320",
-    "icao:airline":"ASA",
-    "iso:country":"US",
-    "lbl:latitude":37.61799,
-    "lbl:longitude":-122.370943,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:aircraft_id":1159292085,
-    "sfomuseum:airline_id":1159283813,
-    "sfomuseum:arrival_id":102527513,
-    "sfomuseum:departure_id":102527373,
-    "sfomuseum:flight_id":"20200309-A-ASA-9529",
-    "sfomuseum:flight_number":[
-        "ASA9529",
-        "AS9529"
+    "date:cessation_lower": "2020-03-10",
+    "date:cessation_upper": "2020-03-10",
+    "date:inception_lower": "2020-03-09",
+    "date:inception_upper": "2020-03-09",
+    "edtf:cessation": "2020-03-10T01:09:07Z",
+    "edtf:inception": "2020-03-09T21:40:00Z",
+    "flysfo:actual_timestamp": 1583794800,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2020-03-09",
+    "flysfo:estimated_timestamp": 1583801940,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9529",
+    "flysfo:gate": "",
+    "flysfo:journey": "SAT-SFO",
+    "flysfo:scheduled_timestamp": 1583802420,
+    "flysfo:timestamp": 1583802420,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,29.534838,-98.472784,37.617990",
+    "geom:latitude": 33.576414,
+    "geom:longitude": -110.4218635,
+    "iata:airline": "AS",
+    "icao:aircraft": "A320",
+    "icao:airline": "ASA",
+    "iso:country": "US",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159292085,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527373,
+    "sfomuseum:flight_id": "20200309-A-ASA-9529",
+    "sfomuseum:flight_number": [
+      "ASA9529",
+      "AS9529"
     ],
-    "sfomuseum:placetype":"flight",
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "swim-route"
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
     ],
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "swim:flight_ref":"129258493"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "swim:flight_ref": "129258493"
     },
-    "wof:country":"US",
-    "wof:created":1583856256,
-    "wof:geomhash":"d45c6baaf0d56697f52acbb8a9e14867",
-    "wof:hierarchy":[],
-    "wof:id":1712855237,
-    "wof:involves":[
-        102527513,
-        102527373,
-        1159283813,
-        -1,
-        1159292085
+    "wof:country": "US",
+    "wof:created": 1583856256,
+    "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
+    "wof:hierarchy": [
+      {
+        "event_id": 1712855237
+      }
     ],
-    "wof:lastmodified":1601498448,
-    "wof:name":"AS9529 (SAT-SFO)",
-    "wof:parent_id":-1,
-    "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flights-2020-03",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1712855237,
+    "wof:involves": [
+      102527513,
+      102527373,
+      1159283813,
+      -1,
+      1159292085
+    ],
+    "wof:lastmodified": 1717030092,
+    "wof:name": "AS9529 (SAT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2020-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.370943,
     29.534838,
     -98.472784,
     37.61799
-],
+  ],
   "geometry": {"coordinates":[[-98.472784,29.534838],[-122.370943,37.61799]],"type":"MultiPoint"}
 }

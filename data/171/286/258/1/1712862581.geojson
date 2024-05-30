@@ -96,10 +96,13 @@
       1477930485,
       1159284711
     ],
-    "wof:lastmodified": 1651270529,
+    "wof:lastmodified": 1717030095,
     "wof:name": "SN7248 (FRA-SFO)",
     "wof:parent_id": 1477930485,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

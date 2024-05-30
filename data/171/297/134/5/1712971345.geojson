@@ -96,10 +96,13 @@
       1477930423,
       1159285413
     ],
-    "wof:lastmodified": 1651270422,
+    "wof:lastmodified": 1717030102,
     "wof:name": "AC4275 (MRY-SFO)",
     "wof:parent_id": 1477930423,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

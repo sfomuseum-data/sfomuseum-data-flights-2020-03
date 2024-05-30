@@ -90,10 +90,13 @@
       1159283849,
       1477930367
     ],
-    "wof:lastmodified": 1651270441,
+    "wof:lastmodified": 1717030105,
     "wof:name": "AA6033 (LAX-SFO)",
     "wof:parent_id": 1477930367,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

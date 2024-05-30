@@ -78,10 +78,13 @@
       1159285413,
       1477930443
     ],
-    "wof:lastmodified": 1653352246,
+    "wof:lastmodified": 1717030099,
     "wof:name": "UA5915 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

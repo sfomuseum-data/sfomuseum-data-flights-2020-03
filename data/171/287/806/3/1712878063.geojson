@@ -90,10 +90,13 @@
       1159286475,
       1477930481
     ],
-    "wof:lastmodified": 1651270338,
+    "wof:lastmodified": 1717030099,
     "wof:name": "LX38 (ZRH-SFO)",
     "wof:parent_id": 1477930481,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

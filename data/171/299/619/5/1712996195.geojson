@@ -90,10 +90,13 @@
       1159285413,
       1477930461
     ],
-    "wof:lastmodified": 1651270502,
+    "wof:lastmodified": 1717030109,
     "wof:name": "UA1272 (SFO-LAS)",
     "wof:parent_id": 1477930461,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

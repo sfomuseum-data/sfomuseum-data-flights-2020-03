@@ -60,10 +60,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1651270448,
+    "wof:lastmodified": 1717030106,
     "wof:name": "OS8217 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

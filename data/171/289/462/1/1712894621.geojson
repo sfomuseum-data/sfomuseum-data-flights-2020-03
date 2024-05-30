@@ -96,10 +96,13 @@
       1477930301,
       1159284313
     ],
-    "wof:lastmodified": 1651270334,
+    "wof:lastmodified": 1717030099,
     "wof:name": "AS5000 (SFO-SYD)",
     "wof:parent_id": 1477930301,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

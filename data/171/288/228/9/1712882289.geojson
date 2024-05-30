@@ -90,10 +90,13 @@
       1159285413,
       1477930431
     ],
-    "wof:lastmodified": 1651270322,
+    "wof:lastmodified": 1717030095,
     "wof:name": "UA5784 (SFO-FAT)",
     "wof:parent_id": 1477930431,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

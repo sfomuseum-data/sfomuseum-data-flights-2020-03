@@ -96,10 +96,13 @@
       1477930371,
       1159283813
     ],
-    "wof:lastmodified": 1651270279,
+    "wof:lastmodified": 1717030093,
     "wof:name": "FJ5805 (DCA-SFO)",
     "wof:parent_id": 1477930371,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

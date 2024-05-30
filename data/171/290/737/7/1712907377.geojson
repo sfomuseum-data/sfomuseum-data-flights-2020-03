@@ -102,10 +102,13 @@
       1477930477,
       1159289985
     ],
-    "wof:lastmodified": 1651270536,
+    "wof:lastmodified": 1717030103,
     "wof:name": "UA927 (FRA-SFO)",
     "wof:parent_id": 1477930477,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

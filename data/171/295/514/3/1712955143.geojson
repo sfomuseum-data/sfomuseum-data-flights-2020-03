@@ -90,10 +90,13 @@
       1159285413,
       1477930435
     ],
-    "wof:lastmodified": 1651270436,
+    "wof:lastmodified": 1717030105,
     "wof:name": "UA431 (BOS-SFO)",
     "wof:parent_id": 1477930435,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

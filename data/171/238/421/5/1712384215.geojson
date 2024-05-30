@@ -54,10 +54,13 @@
       1159285163,
       -1
     ],
-    "wof:lastmodified": 1651270273,
+    "wof:lastmodified": 1717030095,
     "wof:name": "SQ2 (SIN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

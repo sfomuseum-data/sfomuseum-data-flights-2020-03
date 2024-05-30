@@ -90,10 +90,13 @@
       1159284261,
       1477930319
     ],
-    "wof:lastmodified": 1651270278,
+    "wof:lastmodified": 1717030093,
     "wof:name": "DL2027 (MSP-SFO)",
     "wof:parent_id": 1477930319,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

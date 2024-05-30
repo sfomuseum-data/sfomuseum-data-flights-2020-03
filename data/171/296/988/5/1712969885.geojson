@@ -54,10 +54,13 @@
       1159284583,
       -1
     ],
-    "wof:lastmodified": 1651270472,
+    "wof:lastmodified": 1717030110,
     "wof:name": "B6916 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

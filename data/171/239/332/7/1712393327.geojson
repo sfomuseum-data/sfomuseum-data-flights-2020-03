@@ -90,10 +90,13 @@
       1159283539,
       1477930291
     ],
-    "wof:lastmodified": 1651270284,
+    "wof:lastmodified": 1717030095,
     "wof:name": "AM665 (SFO-MEX)",
     "wof:parent_id": 1477930291,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

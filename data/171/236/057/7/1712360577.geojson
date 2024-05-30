@@ -96,10 +96,13 @@
       1477930331,
       1159284261
     ],
-    "wof:lastmodified": 1651270487,
+    "wof:lastmodified": 1717030093,
     "wof:name": "AM3335 (ATL-SFO)",
     "wof:parent_id": 1477930331,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2020-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],
